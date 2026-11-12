@@ -1,3 +1,7 @@
+# Taken from Kinross (https://gitlab.com/parclytaxel/Kinross).
+# Copyright (c) 2018 Parcly Taxel / Jeremy Tan
+# Licensed under the MIT License; see LICENSE-KINROSS in this directory.
+
 # Methods dealing with polynomials expressed in the Bernstein basis,
 # (1-t)^n term first. These usually achieve better numerical stability.
 

@@ -1,3 +1,7 @@
+# Taken from Kinross (https://gitlab.com/parclytaxel/Kinross).
+# Copyright (c) 2018 Parcly Taxel / Jeremy Tan
+# Licensed under the MIT License; see LICENSE-KINROSS in this directory.
+
 # Algebraic and numerical helper functions.
 import numpy as np
 
